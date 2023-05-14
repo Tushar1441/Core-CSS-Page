@@ -16,7 +16,7 @@ The webpage includes the following features:
 ## How to Run
 
 To run the webpage, simply click on the following link:
-[https://tushar1441.github.io/Core-CSS-Page/](https://css-core-page.netlify.app/)
+[Netlify](https://css-core-page.netlify.app/)
 
 Alternatively, you can clone the repository to your local machine using the following command:
 
